@@ -1,3 +1,4 @@
+package javac;
 public class tc{
     public static void main(String[] args) {
 

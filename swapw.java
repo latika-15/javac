@@ -1,3 +1,4 @@
+package javac;
 public class swapw {
     public static void main(String[] args) {
         int a=14;
